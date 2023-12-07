@@ -1,0 +1,15 @@
+C:\Study Material\LAB\C#Net\bin\Debug\net7.0\C#Net.exe
+C:\Study Material\LAB\C#Net\bin\Debug\net7.0\C#Net.deps.json
+C:\Study Material\LAB\C#Net\bin\Debug\net7.0\C#Net.runtimeconfig.json
+C:\Study Material\LAB\C#Net\bin\Debug\net7.0\C#Net.dll
+C:\Study Material\LAB\C#Net\bin\Debug\net7.0\C#Net.pdb
+C:\Study Material\LAB\C#Net\obj\Debug\net7.0\C#Net.csproj.AssemblyReference.cache
+C:\Study Material\LAB\C#Net\obj\Debug\net7.0\C#Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study Material\LAB\C#Net\obj\Debug\net7.0\C#Net.AssemblyInfoInputs.cache
+C:\Study Material\LAB\C#Net\obj\Debug\net7.0\C#Net.AssemblyInfo.cs
+C:\Study Material\LAB\C#Net\obj\Debug\net7.0\C#Net.csproj.CoreCompileInputs.cache
+C:\Study Material\LAB\C#Net\obj\Debug\net7.0\C#Net.dll
+C:\Study Material\LAB\C#Net\obj\Debug\net7.0\refint\C#Net.dll
+C:\Study Material\LAB\C#Net\obj\Debug\net7.0\C#Net.pdb
+C:\Study Material\LAB\C#Net\obj\Debug\net7.0\C#Net.genruntimeconfig.cache
+C:\Study Material\LAB\C#Net\obj\Debug\net7.0\ref\C#Net.dll
